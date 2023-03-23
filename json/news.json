@@ -1,0 +1,50 @@
+{
+  "news": [
+    {
+      "title": "Manchester United beat Chelsea 2-1",
+      "image": "https://img.asmedia.epimg.net/resizer/ZgZLuXX4Rfb7xCCruoQZ8wMDcHE=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/QS7AR2HKBRN5NFHTZJI7ZGTQQA.jpg",
+      "description": "Manchester United beat Chelsea 2-1 in a thrilling match at Old Trafford. Goals from Marcus Rashford and Anthony Martial secured the win for United, while N'Golo Kante scored for Chelsea."
+    },
+    {
+      "title": "Real Madrid win the Champions League",
+      "image": "https://img.olympicchannel.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/pyqaawxxfwzeiib35hsm",
+      "description": "Real Madrid won the Champions League for the third year in a row, beating Liverpool 3-1 in the final in Kiev. Goals from Karim Benzema and Gareth Bale secured the win for Madrid, while Sadio Mane scored for Liverpool."
+    },
+    {
+      "title": "Lionel Messi wins Ballon d'Or",
+      "image": "https://www.fcbarcelona.com/fcbarcelona/photo/2020/05/02/4e401735-6825-4c0c-813d-03db06a6bc1a/BDO-MESSI-2009.png",
+      "description": "Barcelona's Lionel Messi has won the Ballon d'Or for the sixth time, breaking the record for the most wins of the prestigious award. Messi had a phenomenal season, scoring 54 goals and providing 20 assists in all competitions."
+    },
+
+    {
+      "title": "Manchester City Sign Messi",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/football-news/article18782784.ece/ALTERNATES/s615/0_Lionel-Messi-Man-City.png",
+      "description": "Manchester City have signed Lionel Messi in a record-breaking transfer deal."
+    },
+    {
+      "title": "Barcelona Sack Manager",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/5f38ebd7a23673527a3a2d0d/Ronald-Koeman-will-reportedly-become-the-next-manager-of-FC-Barcelona-/960x0.jpg?format=jpg&width=960",
+      "description": "Barcelona have sacked their manager after a string of poor results."
+    },
+    {
+      "title": "Liverpool Star Injured",
+      "image": "https://wp.inews.co.uk/wp-content/uploads/2022/07/SEI_116416359.jpg?crop=0px%2C213px%2C2500px%2C1405px&resize=640,360&strip=all&quality=90",
+      "description": "Liverpool's star player has been ruled out for the rest of the season after sustaining a serious injury."
+    },
+    {
+      "title": "Lionel Messi scores hattrick against Real Madrid",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2021/08/2019-12-07T000000Z_879038429_RC2LQD9L67FQ_RTRMADP_3_SOCCER-SPAIN-FCB-RCD-REPORT.jpg?resize=770%2C513&quality=80",
+      "description": "Lionel Messi scored a hattrick to secure a 3-1 victory for Barcelona against their fierce rivals Real Madrid in a pulsating El Clasico match. The Argentine superstar put in a mesmerizing performance, showing off his skill and vision to create chances for himself and his teammates."
+    },
+    {
+      "title": "Manchester United stun Manchester City with comeback win",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article25158900.ece/ALTERNATES/s1200/0_12.jpg",
+      "description": "Manchester United produced a stunning second-half comeback to beat Manchester City 3-2 in a thrilling Premier League match at the Etihad Stadium. City took an early lead through Sergio Aguero, but United responded with goals from Paul Pogba and Chris Smalling. City equalized through Gabriel Jesus, but United had the last laugh as Nemanja Matic scored a stunning winner in the dying minutes of the game."
+    },
+    {
+      "title": "Cristiano Ronaldo leads Juventus to Champions League victory",
+      "image": "https://www.juventus.com/images/image/private/t_editorial_landscape_12_desktop/f_auto/dev/nyuf6tne3npisv92zetr.jpg",
+      "description": "Cristiano Ronaldo put in a vintage performance to inspire Juventus to a 2-0 win over Bayern Munich in the first leg of their Champions League quarterfinal tie. The Portuguese superstar scored both goals, the first a stunning solo effort and the second a powerful header from a corner. Juventus will be hoping to finish the job in the second leg and progress to the semifinals."
+    }
+  ]
+}
